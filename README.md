@@ -12,7 +12,7 @@ Trebuie să respectați organizarea codului prezentată la curs și seminar, adi
   - Module pentru calcule
 - UserInterface
   - Module pentru interfața cu utilizatorul
-- Tests
+- Testsd
   - Module pentru teste
 ```
 
